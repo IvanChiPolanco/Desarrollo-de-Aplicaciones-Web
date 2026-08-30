@@ -3,7 +3,8 @@
 - Ivan Alejandro Chi Polanco
 
 - Omar Sebastian Chim Canche
-![Uploading image.png…]()
+<img width="3024" height="3024" alt="Imagen" src="https://github.com/user-attachments/assets/35da0dbd-3ee5-482d-a5de-fab0d90892a5" />
+
 
 
 - Gabriel Bolaños Marín
