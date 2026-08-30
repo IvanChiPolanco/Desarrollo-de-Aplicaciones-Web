@@ -3,7 +3,7 @@
 - Ivan Alejandro Chi Polanco
 
 - Omar Sebastian Chim Canche
-<img width="3024" height="3024" alt="Imagen" src="https://github.com/user-attachments/assets/35da0dbd-3ee5-482d-a5de-fab0d90892a5" />
+<img width="231" height="216" alt="Imagen" src="https://github.com/user-attachments/assets/35da0dbd-3ee5-482d-a5de-fab0d90892a5" />
 
 
 
