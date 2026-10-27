@@ -1,0 +1,8 @@
+## <strong>27/10</strong>
+La idea principal del proyecto es hacer un HUB central de noticias que se comunique mediate lectura de feeds RSS, leerá dependiendo de varios sitios (facultades integradas a la uady) sus feeds y colocará las noticias más recientes de todos los sitios, al igual que si estás interesado en entrar directamente a algúna de las páginas de la facultád puedes ir directamente, se pueden hacer pruebas directamente con sitios que ya utilizan sistemas similares como BBC news o Xataka, para posteriormente integrar sitios pre fabricados para su aplicación
+
+Otra opción víable sería hacer un HUB en el que uno como estudiante requiere estar constantemente al tanto de las nuevas actualizaciones que se nos presenten, por ejemplo nosotros como estudiantes de software las recientes noticias de los parches de ciberseguridad en PHP, o las azañas de CHAT GPT astra con la ecuación del milenio, por lo que un sitio enfocado más directamente a ayudar al estudiante, mediante preferencias tipo:
+- En que campus estás?
+    - Dependiendo de lo que escoja, se le mostrarán noticias relacionadas a la educación, medicina, ingenieria o computación, haciendolo general, más adelante podría modificarse con cookies externas o preferencias más específicas de cada carrera o especialidad
+
+Quizaas se pudiese escalar a ser una red social en la que cada Estudiante UADY pudiese entrar y hacer sus públicaciones tipo CE y SA de tal campus publicaron una convocatoria para cierto evento en "X" facultad y que te envíe a la publicación en dónde está esa convocatoria 
