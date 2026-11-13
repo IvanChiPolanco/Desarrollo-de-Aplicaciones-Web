@@ -1,1 +1,29 @@
-/*Archivo para el estilo del index*/
+.contenedor-footer {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.logo-footer {
+    grid-column: 1 / -1;
+    text-align: left;
+    font-weight: bold;
+}
+
+.columna-footer {
+    text-align: left;
+}
+
+.columna-footer ul {
+    padding-left: 20px;
+}
+
+@media (max-width: 700px) {
+    .contenedor-footer {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+}
